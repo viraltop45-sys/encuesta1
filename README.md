@@ -1,2 +1,0 @@
-# encuesta1
-proyecto
